@@ -3,9 +3,6 @@
 #include <FL/Fl_Output.H>
 #include <FL/Fl_Button.H>
 #include <FL/Fl_Window.H>
-#include <FL/Fl_Box.H>
-#include <FL/fl_draw.H>
-#include <FL/Fl_Group.H>
 #include <FL/Enumerations.H>
 #include "inc/gui.hpp"
 #include "inc/cipher.hpp"
